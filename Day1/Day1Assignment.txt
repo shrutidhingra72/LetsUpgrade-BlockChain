@@ -1,0 +1,23 @@
+Q1.Blockchain was invented by Satoshi Nakamoto. As the name suggests, blockchain is a chain of blocks that contains information. Each block consists of a number of transactions and each transaction is recorded in the form of Hash. Hash is a unique address assigned to each block during its creation and any further modification in the block will lead to a change in its hash.
+
+
+Q2.
+Bitcoin uses blockchain to maintain its public ledger of every single transaction ever made with Bitcoin. This Merkle tree approach allows for a greater hashing mechanism to provide efficient and secure verification of large amounts of data.
+
+
+Q3.Features of Blockchain:
+Data stored in blockchain is immutable and cannot be changed easily as explained above. Also the data is added to the block after it is approved by everyone in the network and thus allowing secure transactions. Those who validate the transactions and add them in block are called miners.
+
+Blockchain is Decentralized as well as an open ledger. Ledger is the record of the transactions done and because it is visible to everyone, therefore is called an open ledger. No individual or any organisation is incharge of the transactions. Each and every connection in the blockchain network has a same copy of the ledger.
+Blockchain provide a peer to peer network. This characteristic of blockchain allows the transactions to involve only two parties, the sender and the receiver. Thus it removes the requirement of ‘third party authorisation’ because everyone in the network is themselves able to authorise the transactions.
+
+
+Q4.A block has mainly 3 parts:
+Data/Information part- contain the information of the transaction incurred
+Hash- Unique ID of block
+Previous Hash- Hash of previous block
+
+
+
+
+
